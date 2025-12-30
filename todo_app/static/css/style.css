@@ -1,0 +1,22 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Arial', sans-serif;
+}
+
+.task-card {
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
+
+.task-title {
+    font-weight: bold;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: #6c757d;
+}
+
+.btn-custom {
+    margin: 2px;
+}
